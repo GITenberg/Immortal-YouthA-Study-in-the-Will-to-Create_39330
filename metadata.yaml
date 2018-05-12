@@ -1,0 +1,28 @@
+_repo: Immortal-YouthA-Study-in-the-Will-to-Create_39330
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Price, Lucien
+    alias: Deming, Seymour
+    birthdate: 1883
+    deathdate: 1964
+    gutenberg_agent_id: '39969'
+    url: http://www.gutenberg.org/2009/agents/39969
+    wikipedia: http://en.wikipedia.org/wiki/Lucien_Price
+description: ''
+gutenberg_issued: '2012-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39330'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ND'
+- !lcsh 'Demmler, Fred Adolph, 1888-1918'
+title: 'Immortal Youth: A Study in the Will to Create'
+url: http://www.gutenberg.org/ebooks/39330
