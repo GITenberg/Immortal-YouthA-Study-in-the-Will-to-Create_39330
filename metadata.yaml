@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39969
     wikipedia: http://en.wikipedia.org/wiki/Lucien_Price
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39330#Immortal-YouthA-Study-in-the-Will-to-Create
 gutenberg_issued: '2012-04-01'
 gutenberg_type: Text
 identifiers:
